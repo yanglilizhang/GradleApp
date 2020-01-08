@@ -1,0 +1,1 @@
+I:\demo_study\kotlin\GradleApp\buildSrc\build\classes\kotlin\main\Deps.class;I:\demo_study\kotlin\GradleApp\buildSrc\build\classes\kotlin\main\Version.class
